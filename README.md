@@ -50,3 +50,7 @@ Code:
 npm run dev
 ```
 
+#### Print of system:
+
+![alt text](https://scontent.fcpv3-1.fna.fbcdn.net/v/t1.15752-9/41310486_804019073322650_3838450454694461440_n.png?_nc_cat=0&oh=b559bb7527a3b5e972e12a3e0f13e659&oe=5BF2CDDA)
+
