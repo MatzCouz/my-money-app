@@ -45,7 +45,7 @@ Code:
  babel-plugin-transform-object-rest-spread@6.22.0 babel-preset-es2015@6.22.0 babel-preset-react@6.22.0
 ```
 
-#### Execute o system with:
+#### Execute the system with:
 ```
 npm run dev
 ```
