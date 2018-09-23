@@ -1,6 +1,6 @@
 # my-money-app
 Basic system of input and output of resources of stores...
-Utilising react/redux in frontend and NodeJs/MondoDB in backend
+Utilising React/Redux in frontend and NodeJs/MondoDB in backend
 
 
 #### For the backend is necessary install the following tools:
